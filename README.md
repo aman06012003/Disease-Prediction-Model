@@ -1,2 +1,2 @@
 # Disease-Prediction-Model
-ML model to predict diseases using some symptoms
+ML model to predict diseases using some symptoms like Blood Pressure, Sugar level etc
